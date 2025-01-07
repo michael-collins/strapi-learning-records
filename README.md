@@ -1,1 +1,1 @@
-# nuxt3-strapi
+# strapi-learning-records
